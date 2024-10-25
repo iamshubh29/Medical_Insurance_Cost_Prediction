@@ -25,8 +25,8 @@ The output is the estimated insurance cost in USD.
 ## Results
 The model’s performance has been evaluated, and the following R-squared values were obtained:
 
-R-squared (training data): 0.751505643411174
-R-squared (test data): 0.7447273869684077
+ *R-squared (training data): 0.751505643411174
+*R-squared (test data): 0.7447273869684077
 These values indicate that the model explains around 75% of the variance in the data.
 
 
